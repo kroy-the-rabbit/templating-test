@@ -1,6 +1,7 @@
 
 Go:
 
+```
   > go run main.go
     <!DOCTYPE html>
     <html lang="en">
@@ -20,10 +21,11 @@ Go:
             
         </ul>
     </body>
-    <html>                                                                                                                                                                                           (templating) 
+```
  
 Python:
 
+```
   > pyenv virtualenv 3.12 templating
   > pyenv local templating 
     (templating) 
@@ -62,6 +64,6 @@ Python:
     </body>
     </html>
     (templating)  
-
+```
 
 
