@@ -2,6 +2,11 @@
 Go:
 
 ```
+  > go mod init github.com/kroy-the-rabbit/templating-test
+    go: creating new go.mod: module github.com/kroy-the-rabbit/templating-test
+    go: to add module requirements and sums:
+        go mod tidy
+  > go mod tidy
   > go run main.go
     <!DOCTYPE html>
     <html lang="en">
@@ -64,6 +69,6 @@ Python:
     </body>
     </html>
     (templating)  
-```
+``` 
 
 
